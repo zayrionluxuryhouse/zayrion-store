@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Luxury Panjabi",
+    "price": "1590",
+    "image": "https://via.placeholder.com/200",
+    "category": "Panjabi"
+  },
+  {
+    "name": "Premium Shirt",
+    "price": "990",
+    "image": "https://via.placeholder.com/200",
+    "category": "Shirt"
+  },
+  {
+    "name": "Cotton T-Shirt",
+    "price": "590",
+    "image": "https://via.placeholder.com/200",
+    "category": "T-Shirt"
+  },
+  {
+    "name": "Luxury Saree",
+    "price": "1990",
+    "image": "https://via.placeholder.com/200",
+    "category": "Saree"
+  }
+]
